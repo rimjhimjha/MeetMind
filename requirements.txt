@@ -1,0 +1,13 @@
+streamlit>=1.22.0
+langchain==0.0.267
+langchain-openai>=0.0.2
+langchain-google-genai==0.0.3
+google-generativeai>=0.3.2
+python-dotenv==1.0.0
+faiss-cpu>=1.7.4
+pandas>=2.0.0
+numpy>=1.24.0
+openai>=1.1.1
+pypdf>=3.8.1
+crewai==0.22.5
+tiktoken>=0.4.0
